@@ -1,0 +1,28 @@
+#main{
+    justify-content: center;
+}
+.btn:hover{
+    background-color: lightyellow;
+    color:red
+}
+.screen{
+    background-color: aliceblue;
+    width: 800px;
+    text-align: center;
+    height: 195px;
+    position: absolute;
+    margin: 100px 0px ;
+
+}
+.row{
+    margin: 20px;
+    height: 500px;
+    justify-content: center;
+}
+span{
+    color: blue;
+    text-decoration: underline;
+}
+
+
+
